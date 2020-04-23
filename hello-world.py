@@ -1,1 +1,2 @@
-('Helloo, world!')
+
+print('Helloo, world!')
